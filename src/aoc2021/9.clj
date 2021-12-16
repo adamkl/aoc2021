@@ -1,6 +1,5 @@
 (ns aoc2021.9
-  (:require [clojure.string :as string]
-            [clojure.set :as set]))
+  (:require [clojure.string :as string]))
 
 ;; --- Day 9: Smoke Basin ---
 
