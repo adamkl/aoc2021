@@ -1,6 +1,5 @@
 (ns aoc2021.12
-  (:require [clojure.string :as string]
-            [clojure.set :as set]))
+  (:require [clojure.string :as string]))
 
 ;; --- Day 12: Passage Pathing ---
 

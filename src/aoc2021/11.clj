@@ -415,7 +415,7 @@
                (:octopi output))
         (assoc input :octopi octos)))))
 
-(defn reset-flashers [{:keys [octopi dimensions flashes step sync] :as input}]
+(defn reset-flashers [{:keys [octopi dimensions flashes step] :as input}]
   (let [[x-max y-max] dimensions]
     (loop [x 0
            y 0
