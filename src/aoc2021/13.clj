@@ -1,6 +1,5 @@
 (ns aoc2021.13
-  (:require [clojure.string :as string]
-            [clojure.pprint :as pprint]))
+  (:require [clojure.string :as string]))
 
 ;; --- Day 13: Transparent Origami ---
 
